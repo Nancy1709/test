@@ -1,2 +1,2 @@
 read.txt
-git branch dev2
+git branch dev2 -dev
