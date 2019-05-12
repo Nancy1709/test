@@ -1,3 +1,2 @@
 read.txt
-<<<<<<< HEAD
 git branch dev2 -master i'm just a little bit caught in the middle
